@@ -70,7 +70,7 @@ l = tokenize_en(english)
 # multi30k dataset
 # import os
 
-# raw_dir = "/jeongho/yezun/data/multi30k/raw"
+# raw_dir = "/multi30k"
 # with open(os.path.join(raw_dir, "train.en"), "r") as f:
 #     train_en = [text.rstrip() for text in f]
 # with open(os.path.join(raw_dir, "train.de"), "r") as f:
